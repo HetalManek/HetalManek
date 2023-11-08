@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **Angular**
-
 - 💬 Ask me about **HTML,CSS,JavaScript,Typescript,Bootstrap**
 
 - 📫 How to reach me **h911thakkar@gmail.com**
