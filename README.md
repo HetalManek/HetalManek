@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/hetalthakkar" target="blank"><img src="https://img.shields.io/twitter/follow/hetalthakkar?logo=twitter&style=for-the-badge" alt="hetalthakkar" /></a> </p>
 <img style="height: 300px; margin-top:" 37px; align="right" alt="Coding" src="https://ayodele-olufemi.github.io/MyBioSite/images/coding.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-- 🔭 I’m currently working on **Angular**
+- 🔭 I’m currently working in **Angular**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,Typescript,Bootstrap**
 
